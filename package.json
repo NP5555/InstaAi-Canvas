@@ -1,0 +1,17 @@
+{
+  "name": "instagram-quote-agent",
+  "version": "1.0.0",
+  "description": "Instagram automation agent that generates quotes and posts them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "axios": "^1.6.7",
+    "canvas": "^2.11.2",
+    "instagram-private-api": "^1.45.3",
+    "node-cron": "^3.0.3",
+    "dotenv": "^16.4.5"
+  }
+} 
