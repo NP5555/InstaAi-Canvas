@@ -82,4 +82,5 @@ The above image showcases our luxury black and gold theme with:
 MIT License - feel free to use and modify as needed.
 
 ---
-Made with ♥️ by Agentic 
+Search on Instagram: @naeem.pansota
+Made with ♥️ by naeem.pansota 
